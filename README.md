@@ -1,2 +1,2 @@
-# ParksHunt
+# ParksHunt (https://mcatlas.org/parkshunt/)
 A GPS enabled mobile first map gaming website for park visitors to locate, engage with points of interest in the parks and compete with each other by their score. The project was inspired by Pokémon GO and requested by the Montgomery County Park Department in Maryland with an objective of bringing all points of interest together to park visitors and fulfill their right to experience a physically active life. The website utilized ArcGIS JavaScript API, Web Geolocation API, JavaScipt, jQuery, PHP/MYSQL, and HTML5/CSS. The GIS TEAM at Maryland-National Capital Park and Planning Commission has received the final website and approved...
